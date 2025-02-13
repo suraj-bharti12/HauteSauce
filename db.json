@@ -1,11 +1,11 @@
 {
   "restrictedPincodes": [
     {
-      "pincode": "110001",
+      "pincode": "410001",
       "restricted": true
     },
      {
-      "pincode": "110002",
+      "pincode": "410002",
       "restricted": true
     }
    
